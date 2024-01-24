@@ -1,0 +1,700 @@
+INFO - 2023-12-16 15:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-16 15:36:12 --> Illegal string offset 'judul_berita'
+in APPPATH\Views\berita\v_view.php on line 46.
+ 1 APPPATH\Views\berita\v_view.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string offset \'judul_berita\'', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\berita\\v_view.php', 46, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\berita\\v_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('berita/v_view', [], true)
+ 5 APPPATH\Views\v_template_admin.php(219): view('berita/v_view')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Berita.php(38): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Berita->View('4')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Berita))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-16 15:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 15:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-16 16:08:10 --> Class 'App\Models\ModelJBerita' not found
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 16:09:07 --> Use of undefined constant pager - assumed 'pager' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant pager - assumed \'pager\' (this will throw an Error in a future version of PHP)', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Controllers\\Home.php', 41, [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Berita()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-16 16:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-16 16:59:44 --> Cannot use object of type CodeIgniter\Database\MySQLi\Builder as array
+in APPPATH\Views\front-end\v_berita.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_berita', [], true)
+ 4 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_berita')
+ 5 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 6 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 8 APPPATH\Controllers\Home.php(44): view('v_template_front_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Berita()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 17:02:43 --> Cannot use object of type CodeIgniter\Database\MySQLi\Builder as array
+in APPPATH\Views\front-end\v_berita.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_berita', [], true)
+ 4 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_berita')
+ 5 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 6 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 8 APPPATH\Controllers\Home.php(44): view('v_template_front_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Berita()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-16 17:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 17:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 17:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 17:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 17:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 17:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-16 17:02:53 --> Cannot use object of type CodeIgniter\Database\MySQLi\Builder as array
+in APPPATH\Views\front-end\v_berita.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_berita', [], true)
+ 4 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_berita')
+ 5 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 6 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 8 APPPATH\Controllers\Home.php(44): view('v_template_front_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Berita()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 17:04:07 --> Undefined index: nama_user
+in APPPATH\Views\front-end\v_berita.php on line 51.
+ 1 APPPATH\Views\front-end\v_berita.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nama_user', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_berita.php', 51, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(44): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Berita()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 17:30:36 --> "custom_pager" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 122.
+ 1 SYSTEMPATH\Pager\Pager.php(122): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('custom_pager')
+ 2 SYSTEMPATH\Pager\Pager.php(85): CodeIgniter\Pager\Pager->displayLinks('berita', 'custom_pager')
+ 3 APPPATH\Views\front-end\v_berita.php(55): CodeIgniter\Pager\Pager->links('berita', 'custom_pager')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_berita.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_berita', [], true)
+ 7 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_berita')
+ 8 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 9 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+11 APPPATH\Controllers\Home.php(45): view('v_template_front_end', [...])
+12 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Berita()
+13 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+14 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 17:32:01 --> Undefined index: judu;"berita
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: judu;"berita', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('smk-gatra-mengadakan-gelar-karya-dan-pentas-seni')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:49:37 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'b-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:49:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:49:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:49:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-3.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:49:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:49:38 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:44 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:44 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:45 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-3.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:45 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:45 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:47 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:48 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:48 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-3.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:48 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:51:48 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:52:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:52:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-3.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:52:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:52:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:52:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:53:08 --> Undefined variable: value
+in APPPATH\Views\front-end\v_view_berita.php on line 35.
+ 1 APPPATH\Views\front-end\v_view_berita.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: value', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 35, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('smk-gatra-mengadakan-gelar-karya-dan-pentas-seni')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:53:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:53:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:53:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:53:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-3.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:53:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:54:35 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:54:35 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:54:35 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'review', 'r-3.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:54:35 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:54:35 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:55:09 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-1.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 18:55:09 --> Trying to access array offset on value of type null
+in APPPATH\Views\front-end\v_view_berita.php on line 11.
+ 1 APPPATH\Views\front-end\v_view_berita.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\front-end\\v_view_berita.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_view_berita', [], true)
+ 5 APPPATH\Views\v_template_front_end.php(211): view('front-end/v_view_berita')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\akademik_gatra\\app\\Views\\v_template_front_end.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_front_end', [], true)
+ 9 APPPATH\Controllers\Home.php(58): view('v_template_front_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->ViewBerita('images', 'blog', 'blog-post', 'bp-2.jpg')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-16 19:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-16 19:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
